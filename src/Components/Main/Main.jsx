@@ -1,35 +1,9 @@
 import React from "react";
 import "./Main.css";
-import About from "../About/About";
-import Project from "../Projects/Project";
-import Experience from "../Experience/Experience";
-import Contact from "../Contact/Contact";
-import ScrollToUp from "../ScrollToUp/ScrollToup"
+import Skills from "../Skills/Skills"
+import Pages from "./Pages";
 
 const Main = ()=> {
-  const skills =[
-    {
-    icon : "fab fa-html5",
-    language: "Html",
-  },
-  {
-    icon:  "fab fa-css3-alt",
-    language: "Css",
-  },
-  {
-    icon: "fab fa-js",
-    language: "Js"
-  },
-  {
-    icon: "fab fa-react",
-    language: "React"
-  },
-  {
-    icon: "fab fa-git-square",
-    language: "Git"
-  }
-]
-
     return (
       <main>
         <section className="imagen" id="inicio">
@@ -37,7 +11,7 @@ const Main = ()=> {
             <h1>Desarrollador Frontend</h1>
             <p>Jhonatan Quirama Pino</p>
             <div className="container6">
-            {skills.map((skill, index) => {
+            {Skills.map((skill, index) => {
               return (
               <ul className="lista" key={index}>
                 <li className="skill">
@@ -50,11 +24,7 @@ const Main = ()=> {
             </div>
           </div>
         </section>
-        <About />
-        <Project />
-        <Experience/>
-        <ScrollToUp/>
-        <Contact />
+        <Pages/>
       </main>
     );
 }

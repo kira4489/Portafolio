@@ -21,7 +21,7 @@ const Experience = () => {
             <li>Software colaborativo Github y Gitlab</li>
           </ul>
           <p className="paragraph-company">
-            <strong>Empresa:</strong> Devip sas
+            <strong>Empresa:</strong> Devip Sas
           </p>
           <p>
             <strong>Periodo:</strong> 3 de marzo 2021 - 4 de octubre 2021

@@ -7,9 +7,9 @@ const Experience3 = () => {
             <div className="container3-experience">
                 <div className="container3-title" id="experience">
                     <h2>Ingeniero de Soporte Devops</h2>
-                    <ul>Soporte de plataformas Devops en onmniprise y nube
-                        <li> Monitoreo de plataformas </li>
-                        <li> Uso de las plataformas de Sonarqube y Postgresql</li>
+                    <ul>Soporte de plataformas Devops en onpremise y nube
+                        <li> Monitoreo de plataformas de onpremise y Nube</li>
+                        <li> Uso de plataformas de Sonarqube y Postgresql</li>
                         <li> Instalacion y configuracion de Sonarqube</li>
                         <li> Instalacion y configuracion de Postgresql</li>
                         <li> Manejo de ticket en Service Now</li>
