@@ -9,7 +9,7 @@ const Experience2 = () => {
                 <ul>Soporte de capa media tales de las herramientas que hay 
                     en Aws tales como:
                     <li> Mq , Bus , Sterling , Api Connect , Sistemas Operativos Windows y Linux</li>
-                    <li> Creacion y Configuracion de pipelines , Reinicio de Mq y Bus </li>
+                    <li> Creacion y Configuracion de pipelines , Reinicio de MQ y Bus </li>
                     <li> Actualizacion de certificados Mq , Bus , Api Connect</li>
                 </ul>
                 <p className="paragraph2-company">
