@@ -13,15 +13,10 @@ const Experience3 = () => {
                         <li> Instalacion y configuracion de Sonarqube</li>
                         <li> Instalacion y configuracion de Postgresql</li>
                         <li> Manejo de ticket en Service Now</li>
-                        <li> Uso de la plataforma de Azure Devops tales:</li>
-                        <li> Creacion de organizaciones y Proyectos</li>
-                        <li> Permisos de usuarios a nivel organizacion y proyecto</li>
+                        <li> Implementacion del ecosistema en Azure Devops</li>
                         <li> Creacion y configuracion de pipelines CI/CD</li>
-                        <li> Instalacion de agentes autohospedados</li>
-                        <li> Creacion y configuracion de artefactos </li>
-                        <li> Creacion y configuracion de librerias</li>
-                        <li> Creacion y configuracion de token</li>
                         <li> Actualizacion de pipelines</li>
+                        <li> Manejo de Sistema Operativos Linux y Windows</li>
                     </ul>
                     <p className="paragraph3-company">
                         <strong>Empresa:</strong> Summer Sas

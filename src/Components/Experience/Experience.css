@@ -10,6 +10,11 @@
   justify-content: center;
 }
 
+.container-experience ul{
+  margin-bottom: 20px;
+  width: 450px;
+}
+
 .container-title h2 {
   margin-bottom: 40px;
 }
