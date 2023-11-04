@@ -1,6 +1,6 @@
 .container2-experience {
     padding: 50px;
-    background-color: #d32f2f;
+    background-image: linear-gradient(80deg, #f94646 0, #f94646 50%, #f94646 50%);
   }
   
 .container2-title {
@@ -16,6 +16,7 @@
 
 .container2-experience ul{
   margin-bottom: 20px;
+  width: 350px;
 }
 
   /*.container2-title li{
