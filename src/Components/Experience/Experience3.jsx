@@ -9,11 +9,15 @@ const Experience3 = () => {
                     <h2>Ingeniero de Soporte Devops</h2>
                     <ul>Soporte de plataformas Devops en onmniprise y nube
                         <li> Monitoreo de plataformas </li>
-                        <li> Uso de plataformas de Sonarqube y Postgresql</li>
+                        <li> Uso de las plataformas de Sonarqube y Postgresql</li>
+                        <li> Instalacion y configuracion de Sonarqube</li>
+                        <li> Instalacion y configuracion de Postgresql</li>
                         <li> Manejo de ticket en Service Now</li>
+                        <li> Uso de la plataforma de Azure Devops tales:</li>
                         <li> Creacion de organizaciones y Proyectos</li>
                         <li> Permisos de usuarios a nivel organizacion y proyecto</li>
-                        <li> Creacion y configuracion de pipelines</li>
+                        <li> Creacion y configuracion de pipelines CI/CD</li>
+                        <li> Instalacion de agentes autohospedados</li>
                         <li> Creacion y configuracion de artefactos </li>
                         <li> Creacion y configuracion de librerias</li>
                         <li> Creacion y configuracion de token</li>
