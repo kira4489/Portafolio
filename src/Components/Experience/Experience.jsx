@@ -1,10 +1,12 @@
 import React from "react";
 import "./Experience.css";
 import Experience2 from "./Experience2";
+import Experience3 from "./Experience3";
 
 const Experience = () => {
   return (
     <>
+      <Experience3/>
       <Experience2 />
       <div className="container-experience">
         <div className="container-title" id="experience">

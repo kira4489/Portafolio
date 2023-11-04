@@ -1,0 +1,30 @@
+.container3-experience {
+    padding: 50px;
+    background-image: linear-gradient(80deg, #008AD7 0,#008AD7 50%, #008AD7  50%);
+  }
+  
+.container3-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container3-title h2 {
+    margin-bottom: 30px;
+  }
+
+.container3-experience ul{
+  margin-bottom: 20px;
+  width: 350px;
+}
+
+  /*.container2-title li{
+    width: 300px;
+  }*/
+  
+  .paragraph3-company {
+    margin-top: 5px;
+    padding: 10px;
+  }
+  

@@ -14,10 +14,10 @@ const Experience2 = () => {
                         <li> Actualizacion de certificados Mq , Bus , Api Connect</li>
                     </ul>
                     <p className="paragraph2-company">
-                        <strong>Empresa:</strong> Db system
+                        <strong>Empresa:</strong> Db System
                     </p>
                     <p>
-                        <strong>Periodo:</strong> 14 de diciembre 2021 - 14 de diciembre 2022
+                        <strong>Periodo:</strong> 8 de diciembre 2021 - 8 de diciembre 2022
                     </p>
                 </div>
             </div>
