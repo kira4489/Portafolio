@@ -5,6 +5,7 @@ import Proyecto4 from "../../images/landing-podcast.jpg";
 import Proyecto5 from "../../images/landingpage.jpg";
 import Proyecto6 from "../../images/surveyform.jpg";
 import Proyecto7 from "../../images/documentpage.jpg";
+import Proyecto8 from "../../images/gitexpertapps.jpg";
 
 const cards = [{
     titulo: "Burger Quiz",
@@ -41,6 +42,11 @@ const cards = [{
     imagen: Proyecto7,
     link: "https://cocky-allen-c1d816.netlify.app/",
   },
+  {
+    titulo: "Git Expert Apps",
+    imagen: Proyecto8,
+    link: "https://giphy-expert-kira4489.vercel.app/"
+  }
 ]
 
 export default cards
