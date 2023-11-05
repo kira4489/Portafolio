@@ -8,7 +8,7 @@ const Experience3 = () => {
                 <div className="container3-title" id="experience">
                     <h2>Ingeniero de Soporte Devops</h2>
                     <ul> Soporte de plataformas Devops en onpremise y nube tales como:
-                        <li> Monitoreo de plataformas de onpremise y Nube</li>
+                        <li> Uso de platamas de Jenkins y Azure DevOps</li>
                         <li> Uso de plataformas de Sonarqube y Postgresql</li>
                         <li> Instalacion y configuracion de Sonarqube</li>
                         <li> Instalacion y configuracion de Postgresql</li>
