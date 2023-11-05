@@ -1,7 +1,7 @@
 import React from "react";
 import "./Main.css";
 import Skills from "../Skills/Skills"
-import Pages from "./Pages";
+import Pages from "../Pages/Pages";
 
 const Main = ()=> {
     return (

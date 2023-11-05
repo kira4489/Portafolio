@@ -1,5 +1,4 @@
 import React from "react";
-import "./Main.css";
 import About from "../About/About";
 import Project from "../Projects/Project";
 import Experience from "../Experiences/Experience";
