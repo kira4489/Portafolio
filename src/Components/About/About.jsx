@@ -15,9 +15,11 @@ const About = () => {
             academia geek con enfasis en React/Node js. Actualmente me desempeño en el cargo de Ingeniero de Soporte Devops. Soy Tecnologo en gestión de redes de datos y técnico en Desarrollo de Software, me apasiona
             la informática y la programación, me encantan los videojuegos y
             aprender nuevas cosas todos los días.
+          <div className="description1">
             <a href={jhonatanQ} target="_blank" rel="noopener noreferrer">
               Ver mi hoja de vida
             </a>
+          </div>
           </p>
           <br />
           <br />
