@@ -7,7 +7,7 @@ const Experience = () => {
   return (
     <>
       <Experience3/>
-      <Experience2 />
+      <Experience2/>
       <div className="container-experience">
         <div className="container-title" id="experience">
           <h2>Desarrollador Frontend</h2>
