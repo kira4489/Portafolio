@@ -6,23 +6,25 @@ const Contact = () => {
       <section className="formulario">
         <div className="formulario1" id="contacto">
           <h2>Vamos a trabajar juntos</h2>
-          <form action="https://formspree.io/f/mgenavrv" method="POST">
+          <form action="https://formspree.io/f/mgenavrv" method="POST" id="form1">
             <div className="form-group">
-              <label htmlFor="exampleInputEmail1">Nombre</label>
+              <label htmlFor="exampleInputName">Nombre</label>
               <input
                 type="text"
                 className="form-control"
                 name="name"
+                id="name"
                 placeholder="Ingrese su nombre"
                 aria-describedby="emailHelp"
                 required
               />
             </div>
             <div className="form-group">
-              <label>Email</label>
+              <label htmlFor="exampleInputEmail1">Email</label>
               <input
                 type="email"
                 name="email"
+                id="email"
                 className="form-control"
                 placeholder="Ingrese su email"
                 aria-describedby="emailHelp"
@@ -34,6 +36,7 @@ const Contact = () => {
               <textarea
               name="message"
                 type="text"
+                id="message"
                 placeholder="Ingrese su mensaje"
                 className="form-control"
               />
