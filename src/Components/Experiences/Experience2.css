@@ -27,4 +27,10 @@
     margin-top: 5px;
     padding: 10px;
   }
-  
+
+  @media (max-width: 600px) {
+    .container2-experience ul{
+     width: 100%;
+    }
+  }
+    
