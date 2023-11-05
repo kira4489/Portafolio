@@ -9,7 +9,7 @@ const Project = () => {
         <h2>Proyectos</h2>
         <div className="retos">
           {Card.map((card, index) => {
-            return <Array key={index} titulo={card.titulo} imagen={card.imagen} link={card.link}/>;
+            return <Array key={index} titulo={card.titulo} imagen={card.imagen} link={card.link}/>
           })}
         </div>
       </div>
