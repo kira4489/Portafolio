@@ -22,7 +22,7 @@ const Experience3 = () => {
                         <strong>Empresa:</strong> Summer Sas
                     </p>
                     <p>
-                        <strong>Periodo:</strong> 12 de diciembre 2022 - Actualidad
+                        <strong>Periodo:</strong> 12 de diciembre 2022 - 1 de Agosto 2025
                     </p>
                 </div>
             </div>
