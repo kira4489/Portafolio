@@ -19,7 +19,7 @@ const Experience3 = () => {
                         <li> Manejo de Sistema Operativos Linux y Windows</li>
                     </ul>
                     <p className="paragraph3-company">
-                        <strong>Empresa:</strong> Summer Sas
+                        <strong>Empresa:</strong> Summan Sas
                     </p>
                     <p>
                         <strong>Periodo:</strong> 12 de diciembre 2022 - 1 de Agosto 2025
